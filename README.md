@@ -44,6 +44,7 @@ Devido a uma brincadeira que tive com meus amigos do ensino médio sobre criar u
 No momento estou participando do **Bootcamp Vivo Python AI Backend Developer** pelo site da **[DIO](https://www.dio.me/)** **(Digital Innovation One)** a fim de ter um estudo mais direcionado para essa nova jornada.
 
 ## Github
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sergiotavuencas)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiotavuencas\&hide=issues\&show_icons=true)
 
 Nos últimos meses não estive ativo no github, mas já estou trabalhando em projetos (em Python) que planejo fazer o upload. Espero que meus novos projetos, assim como os antigos possam ser de alguma ajuda para aqueles que precisem de alguma, seja como inspiração para novos projetos, ou para sugerir soluções para algum problema.
