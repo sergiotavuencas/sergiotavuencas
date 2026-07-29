@@ -1,87 +1,196 @@
-# Olá Mundo!!! Eu sou o Sérgio!
+<h1 align="center">Olá, eu sou o Sérgio Tavuencas 👋</h1>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Mockito-25D366?style=for-the-badge&logo=mockito&logoColor=white">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
-</div>
+<h3 align="center">
+  Desenvolvedor de Software | Back-end | Java, Spring Boot, PHP e Laravel
+</h3>
 
+<p align="center">
+  <a href="https://github.com/sergiotavuencas">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/sergiotavuencas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sergio_tavuencas@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail">
+  </a>
+</p>
 
-## Conteúdo
-- [Sobre mim](#sobre-mim)
-- [Educação](#educação)
-- [Carreira](#carreira)
-- [Github](#github)
-- [Contato](#contato)
+---
 
 ## Sobre mim
-Meu nome é **Sérgio Vicente Tavuencas**. Sou um desenvolvedor backend focado em **Spring Boot** com menos de um ano de experiência, mas com uma determinação imensa para crescer na área. Durante a minha jornada, já tive contato com o front e o back, mas minha paixão sempre foi o backend, especialmente com **Spring Boot**.
 
-Dedico pelo menos uma hora por dia aos estudos, participando do bootcamp **Cognizant - Arquitetura com Spring Boot e Cloud** na **[DIO](https://www.dio.me/)** e acompanhando canais do YouTube, como:
+Sou desenvolvedor de software em **Sorocaba, São Paulo**, com experiência na sustentação e evolução de sistemas corporativos, desenvolvimento back-end, integrações e análise de processos.
 
-- **[Bouali Ali](https://www.youtube.com/@BoualiAli/videos)**
-- **[Michelli Brito](https://www.youtube.com/@MichelliBrito/videos)**
-- **[Giuliana Bezerra](https://www.youtube.com/@giulianabezerra/videos)**
-- **[Javanauta](https://www.youtube.com/@javanauta/videos)**
-- **[Fernanda Kipper | Dev](https://www.youtube.com/@kipperdev)**
+Atualmente, atuo como **Analista e Desenvolvedor de Sistemas na Vitafor**, trabalhando com sustentação do **Mega ERP**, desenvolvimento em **PHP e Laravel**, integrações entre sistemas e consultas em banco de dados **Oracle**.
 
-### Lado Pessoal
-Sou fã de **[Berserk](https://pt.wikipedia.org/wiki/Berserk_(mang%C3%A1))**, que considero uma das melhores histórias já escritas. A determinação do protagonista (***Guts***) me inspira a seguir em frente, mesmo nas adversidades. Também adoro jogos **[Soulslike](https://pt.wikipedia.org/wiki/Soulslike)**, pois eles desafiam a persistência do jogador em não perder seu objetivo, assim como na vida real. Sou apaixonado por cinema, com destaque para o universo de **[Star Wars](https://pt.wikipedia.org/wiki/Star_Wars)**, e meu filme favorito é **[Alien - O Oitavo Passageiro](https://pt.wikipedia.org/wiki/Alien,_o_Oitavo_Passageiro)**. Abaixo deixo uma frase de **[Dark Souls](https://pt.wikipedia.org/wiki/Dark_Souls)** que me traz grande conforto e inspiração:
+Desde dezembro de 2024:
 
-<H2><strong>"Be safe, friend. Don't you dare go hollow" - Laurentius</strong></H2>
+* Atendi e encerrei mais de **700 chamados**;
+* Prestei suporte a uma operação que envolve **21 áreas da empresa**;
+* Desenvolvi e mantive funcionalidades integradas ao ERP;
+* Trabalhei na investigação de incidentes e na otimização de consultas SQL;
+* Analisei processos em busca de automação e redução de atividades manuais.
 
-## Educação
-Estudei na **[FACENS](https://facens.br/)**, onde comecei em Engenharia de Computação, mas depois me formei em **Tecnologia em Análise e Desenvolvimento de Sistemas**. Durante minha formação, tive contato com diversas linguagens e frameworks, incluindo:
+Também possuo experiência anterior com **Salesforce Industries**, **OmniStudio**, componentes Lightning e colaboração com equipes internacionais da região LATAM.
+
+Paralelamente à experiência profissional, desenvolvo projetos back-end com **Java e Spring Boot**, explorando APIs REST, mensageria, bancos de dados relacionais e não relacionais, testes automatizados, Docker, microsserviços e serviços AWS.
+
+---
+
+## Tecnologias
+
+### Back-end
 
 <div>
-    <a href="https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-    <a href="https://pt.wikipedia.org/wiki/Dart_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
-    <a href="https://en.wikipedia.org/wiki/Spring_Boot" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-    <a href="https://pt.wikipedia.org/wiki/Flutter" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs REST">
 </div>
 
-## Carreira
-Comecei como estagiário na **[LabsXD](https://www.linkedin.com/company/labsxd/)** como ***SFDC & Vlocity Developer***, trabalhando como desenvolvedor fullstack. Depois de ser promovido, decidi encerrar minha jornada na empresa para focar no desenvolvimento backend e nas tecnologias que mais me atraem. Durante esse tempo, adquiri experiências valiosas como:
+### Bancos de dados
 
-- Desenvolvimento de classes Apex com sintaxe similar ao Java.
-- Criação de componentes LWC (HTML, CSS, e Javascript).
-- Uso de ferramentas como Git, Jira e metodologias ágeis (Scrum e Kanban).
-- Colaboração em projetos internacionais e equipes multiculturais.
-
-Agora, estou focando em Spring Boot e outras tecnologias que têm se destacado no mercado. Minhas habilidades recentes incluem:
-
-- **Spring MVC**
-- **Spring Data JPA**
-- **SpringDoc OpenAPI 3**
-- **PostgreSQL**
-- **MongoDB**
-- **Flyway**
-- **Docker**
-- **JUnit 5**
-- **Mockito**
-- **Kafka**
-- **RabbitMQ**
-
-## Github
-Estou sempre buscando ser mais ativo no GitHub com projetos baseados em tutoriais, bootcamps e desafios propostos por empresas. Tento sempre lançar mais de uma versão dos projetos, com melhorias pessoais que incluem arquitetura hexagonal, tratamento de erros, testes, migrações de banco de dados e conteinerização.
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sergiotavuencas)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiotavuencas\&hide=issues\&show_icons=true)
-
-## Contato
-Sinta-se à vontade para me contatar pelas minhas redes sociais ou email, seja para tirar dúvidas sobre minha trajetória ou para conversar sobre projetos e estudos. Estou aberto a sugestões e dicas!
-
-<div> 
-  <a href="https://github.com/sergiotavuencas/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:sergiovicente_tavuenc@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="mailto:sergiovicentetavuencas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="http://www.linkedin.com/in/sergiotavuencas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<div>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB">
 </div>
 
-<H2><strong>Be calm, and if everything fails, always remember...</strong></H2>
+### Mensageria, infraestrutura e cloud
+
+<div>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+</div>
+
+### Qualidade e ferramentas
+
+<div>
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5">
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white" alt="Mockito">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+</div>
+
+Além dessas tecnologias, tenho contato com **Spring Web**, **Spring Data JPA**, **Spring Validation**, **Spring Security**, **Flyway**, **OpenAPI/Swagger**, **Mega ERP**, **Salesforce Industries** e **OmniStudio**.
+
+---
+
+## Projetos em destaque
+
+### ⚡ PowerWatch — em desenvolvimento
+
+Projeto baseado em uma arquitetura de microsserviços para coleta, processamento e monitoramento do consumo de energia de aparelhos eletrônicos.
+
+A solução utiliza comunicação assíncrona com Apache Kafka e combina bancos de dados relacionais e de séries temporais. Entre as próximas etapas estão a implementação de um API Gateway e a criação de dashboards no Grafana.
+
+**Tecnologias:** Java, Spring Boot, Apache Kafka, Docker, MySQL e InfluxDB.
+
+[Ver repositório](https://github.com/sergiotavuencas?tab=repositories&q=powerwatch)
+
+---
+
+### 🛸 Aplicação Rick e Morty
+
+Aplicação full stack desenvolvida como desafio técnico durante o processo seletivo da Vitafor.
+
+A aplicação consome a API pública de Rick and Morty, possui autenticação por token e permite cadastrar, editar e excluir personagens persistidos localmente.
+
+**Tecnologias:** PHP, Laravel, React, SQLite, Bootstrap, Docker e API REST.
+
+[Ver repositório](https://github.com/sergiotavuencas?tab=repositories&q=rick)
+
+---
+
+### 📦 Serviço de Processamento e Consulta de Pedidos
+
+Microsserviço desenvolvido com base em um desafio técnico proposto pelo BTG Pactual.
+
+A aplicação consome pedidos de forma assíncrona por meio do RabbitMQ, persiste os dados no MongoDB e disponibiliza uma API REST para consultar valores, quantidades e históricos de pedidos por cliente.
+
+**Tecnologias:** Java, Spring Boot, RabbitMQ, MongoDB e Docker.
+
+[Ver repositório](https://github.com/sergiotavuencas/desafio-btg-pactual-orderms)
+
+---
+
+### ✅ API de Gerenciamento de Tarefas e Usuários
+
+API REST baseada em um desafio proposto pela Simplify.
+
+Além dos requisitos originais, ampliei o projeto com gerenciamento de usuários, relacionamento entre contas e tarefas, tratamento de erros, migrações de banco de dados, documentação OpenAPI e testes unitários.
+
+**Tecnologias:** Java, Spring Boot, PostgreSQL, Spring Data JPA, Flyway, JUnit 5, Mockito e Docker.
+
+[Ver repositório](https://github.com/sergiotavuencas/desafio-simplify)
+
+---
+
+### ☁️ API de Eventos de Tecnologia
+
+API REST para cadastro e gerenciamento de eventos de tecnologia.
+
+O projeto inclui persistência em PostgreSQL, containerização com Docker e implantação da aplicação e do banco de dados na AWS.
+
+**Tecnologias:** Java, Spring Boot, PostgreSQL, Docker, IAM, EC2, RDS, S3 e Secrets Manager.
+
+[Ver repositório](https://github.com/sergiotavuencas/eventostec-api)
+
+---
+
+## Formação e desenvolvimento
+
+🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
+Facens — conclusão em 2023.
+
+📚 **GFT Java & AWS Developer**
+Bootcamp voltado ao desenvolvimento Java e à utilização de serviços da AWS.
+
+Continuo aprofundando meus conhecimentos em:
+
+* Arquitetura de microsserviços;
+* Sistemas orientados a eventos;
+* Integração entre aplicações;
+* Testes automatizados;
+* Observabilidade;
+* Cloud computing;
+* Boas práticas de arquitetura e desenvolvimento back-end.
+
+---
+
+## Idiomas
+
+* **Português:** nativo;
+* **Inglês:** intermediário, com boa leitura técnica e compreensão auditiva;
+* **Espanhol:** básico.
+
+---
+
+## Estatísticas do GitHub
+
 <div align="center">
-    <img src="https://i1.sndcdn.com/artworks-1lae660uaVjF0UQr-zDmt5g-t500x500.jpg">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sergiotavuencas&show_icons=true&hide=issues&locale=pt-br" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiotavuencas&layout=compact&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas">
 </div>
+
+---
+
+## Além do código
+
+Sou fã de **Berserk**, jogos **Soulslike**, cinema e ficção científica. Entre minhas obras favoritas estão **Star Wars**, **Alien — O Oitavo Passageiro** e a série **Dark Souls**.
+
+> “Be safe, friend. Don’t you dare go hollow.”
+> — Laurentius, Dark Souls
+
+---
+
+<p align="center">
+  Aberto a conversas sobre desenvolvimento de software, projetos back-end, integrações e tecnologia.
+</p>
