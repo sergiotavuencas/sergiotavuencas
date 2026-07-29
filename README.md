@@ -1,7 +1,11 @@
-<h1 align="center">Olá, eu sou o Sérgio Tavuencas 👋</h1>
+<p align="right">
+  <a href="./README.pt-BR">Português 🇧🇷</a>
+</p>
+
+<h1 align="center">Hi, I'm Sérgio Tavuencas 👋</h1>
 
 <h3 align="center">
-  Desenvolvedor de Software | Back-end | Java, Spring Boot, PHP e Laravel
+  Software Developer | Backend Development | Java, Spring Boot, PHP & Laravel
 </h3>
 
 <p align="center">
@@ -12,45 +16,46 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:sergio_tavuencas@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou desenvolvedor de software em **Sorocaba, São Paulo**, com experiência na sustentação e evolução de sistemas corporativos, desenvolvimento back-end, integrações e análise de processos.
+I am a software developer based in **Sorocaba, São Paulo, Brazil**, with professional experience in maintaining and evolving enterprise systems, backend development, systems integration, and business process analysis.
 
-Atualmente, atuo como **Analista e Desenvolvedor de Sistemas na Vitafor**, trabalhando com sustentação do **Mega ERP**, desenvolvimento em **PHP e Laravel**, integrações entre sistemas e consultas em banco de dados **Oracle**.
+I currently work as a **Systems Analyst and Developer at Vitafor**, where I support the **Mega ERP** production environment, develop applications with **PHP and Laravel**, work on system integrations, and create and optimize **Oracle SQL** queries.
 
-Desde dezembro de 2024:
+Since December 2024, I have:
 
-* Atendi e encerrei mais de **700 chamados**;
-* Prestei suporte a uma operação que envolve **21 áreas da empresa**;
-* Desenvolvi e mantive funcionalidades integradas ao ERP;
-* Trabalhei na investigação de incidentes e na otimização de consultas SQL;
-* Analisei processos em busca de automação e redução de atividades manuais.
+* Resolved and closed more than **700 support tickets**;
+* Supported an operation involving **21 business areas**;
+* Developed and maintained features integrated with the company's ERP;
+* Investigated incidents and optimized SQL queries;
+* Analyzed business processes to identify automation opportunities and reduce manual work;
+* Collaborated with external providers and third-party development teams.
 
-Também possuo experiência anterior com **Salesforce Industries**, **OmniStudio**, componentes Lightning e colaboração com equipes internacionais da região LATAM.
+Previously, I worked as a **Salesforce Developer at LabsXD**, contributing to Salesforce Industries projects, validating solutions built with OmniStudio, developing Lightning components, and collaborating with international teams across the LATAM region.
 
-Paralelamente à experiência profissional, desenvolvo projetos back-end com **Java e Spring Boot**, explorando APIs REST, mensageria, bancos de dados relacionais e não relacionais, testes automatizados, Docker, microsserviços e serviços AWS.
+Alongside my professional experience, I build backend projects with **Java and Spring Boot**, exploring REST APIs, messaging systems, relational and non-relational databases, automated testing, Docker, microservices, and AWS services.
 
 ---
 
-## Tecnologias
+## Tech Stack
 
-### Back-end
+### Backend Development
 
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs REST">
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
 </div>
 
-### Bancos de dados
+### Databases
 
 <div>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
@@ -60,7 +65,7 @@ Paralelamente à experiência profissional, desenvolvo projetos back-end com **J
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB">
 </div>
 
-### Mensageria, infraestrutura e cloud
+### Messaging, Infrastructure & Cloud
 
 <div>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
@@ -69,128 +74,152 @@ Paralelamente à experiência profissional, desenvolvo projetos back-end com **J
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
 </div>
 
-### Qualidade e ferramentas
+### Testing & Tools
 
 <div>
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5">
   <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white" alt="Mockito">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 </div>
 
-Além dessas tecnologias, tenho contato com **Spring Web**, **Spring Data JPA**, **Spring Validation**, **Spring Security**, **Flyway**, **OpenAPI/Swagger**, **Mega ERP**, **Salesforce Industries** e **OmniStudio**.
+I also have experience with:
+
+* Spring Web;
+* Spring Data JPA;
+* Spring Validation;
+* Spring Security;
+* Flyway;
+* OpenAPI and Swagger;
+* Mega ERP;
+* Salesforce Industries;
+* OmniStudio;
+* Scrum and Kanban.
 
 ---
 
-## Projetos em destaque
+## Featured Projects
 
-### ⚡ PowerWatch — em desenvolvimento
+### ⚡ PowerWatch — Work in Progress
 
-Projeto baseado em uma arquitetura de microsserviços para coleta, processamento e monitoramento do consumo de energia de aparelhos eletrônicos.
+A guided microservices-based project designed to collect, process, and monitor the energy consumption of electronic devices.
 
-A solução utiliza comunicação assíncrona com Apache Kafka e combina bancos de dados relacionais e de séries temporais. Entre as próximas etapas estão a implementação de um API Gateway e a criação de dashboards no Grafana.
+The solution uses Apache Kafka for asynchronous communication and combines relational and time-series databases. Planned improvements include an API Gateway and monitoring dashboards with Grafana.
 
-**Tecnologias:** Java, Spring Boot, Apache Kafka, Docker, MySQL e InfluxDB.
+**Technologies:** Java, Spring Boot, Apache Kafka, Docker, MySQL and InfluxDB.
 
-[Ver repositório](https://github.com/sergiotavuencas?tab=repositories&q=powerwatch)
-
----
-
-### 🛸 Aplicação Rick e Morty
-
-Aplicação full stack desenvolvida como desafio técnico durante o processo seletivo da Vitafor.
-
-A aplicação consome a API pública de Rick and Morty, possui autenticação por token e permite cadastrar, editar e excluir personagens persistidos localmente.
-
-**Tecnologias:** PHP, Laravel, React, SQLite, Bootstrap, Docker e API REST.
-
-[Ver repositório](https://github.com/sergiotavuencas?tab=repositories&q=rick)
+[View repository](https://github.com/sergiotavuencas?tab=repositories&q=PowerWatch)
 
 ---
 
-### 📦 Serviço de Processamento e Consulta de Pedidos
+### 🛸 Rick and Morty Application
 
-Microsserviço desenvolvido com base em um desafio técnico proposto pelo BTG Pactual.
+A full-stack application developed as a technical challenge during Vitafor's recruitment process.
 
-A aplicação consome pedidos de forma assíncrona por meio do RabbitMQ, persiste os dados no MongoDB e disponibiliza uma API REST para consultar valores, quantidades e históricos de pedidos por cliente.
+The application consumes the public Rick and Morty API, provides paginated character browsing, implements token-based authentication, and supports the creation, editing, and deletion of locally stored characters.
 
-**Tecnologias:** Java, Spring Boot, RabbitMQ, MongoDB e Docker.
+**Technologies:** PHP, Laravel, React, SQLite, Bootstrap, Docker and REST APIs.
 
-[Ver repositório](https://github.com/sergiotavuencas/desafio-btg-pactual-orderms)
-
----
-
-### ✅ API de Gerenciamento de Tarefas e Usuários
-
-API REST baseada em um desafio proposto pela Simplify.
-
-Além dos requisitos originais, ampliei o projeto com gerenciamento de usuários, relacionamento entre contas e tarefas, tratamento de erros, migrações de banco de dados, documentação OpenAPI e testes unitários.
-
-**Tecnologias:** Java, Spring Boot, PostgreSQL, Spring Data JPA, Flyway, JUnit 5, Mockito e Docker.
-
-[Ver repositório](https://github.com/sergiotavuencas/desafio-simplify)
+[View repository](https://github.com/sergiotavuencas?tab=repositories&q=rick)
 
 ---
 
-### ☁️ API de Eventos de Tecnologia
+### 📦 Order Processing and Query Service
 
-API REST para cadastro e gerenciamento de eventos de tecnologia.
+A guided backend project based on a technical challenge proposed by BTG Pactual.
 
-O projeto inclui persistência em PostgreSQL, containerização com Docker e implantação da aplicação e do banco de dados na AWS.
+The microservice consumes and processes orders asynchronously through RabbitMQ, stores data in MongoDB, and exposes a REST API for retrieving order totals, the number of orders per customer, and each customer's order history.
 
-**Tecnologias:** Java, Spring Boot, PostgreSQL, Docker, IAM, EC2, RDS, S3 e Secrets Manager.
+**Technologies:** Java, Spring Boot, RabbitMQ, MongoDB and Docker.
 
-[Ver repositório](https://github.com/sergiotavuencas/eventostec-api)
+[View repository](https://github.com/sergiotavuencas/desafio-btg-pactual-orderms)
 
 ---
 
-## Formação e desenvolvimento
+### ✅ Task and User Management API
 
-🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
-Facens — conclusão em 2023.
+A REST API based on a backend technical challenge proposed by Simplify.
+
+I expanded the original requirements by implementing user registration, relationships between users and tasks, error handling, database migrations, OpenAPI documentation, and unit tests.
+
+**Technologies:** Java, Spring Boot, PostgreSQL, Spring Data JPA, Flyway, JUnit 5, Mockito and Docker.
+
+[View repository](https://github.com/sergiotavuencas/desafio-simplify)
+
+---
+
+### ☁️ Technology Events API
+
+A REST API for registering and managing technology events.
+
+The project includes PostgreSQL persistence, Docker containerization, and deployment of both the application and its database on AWS.
+
+**Technologies:** Java, Spring Boot, PostgreSQL, Docker, IAM, EC2, RDS, S3 and Secrets Manager.
+
+[View repository](https://github.com/sergiotavuencas/eventostec-api)
+
+---
+
+## Education & Continuous Learning
+
+🎓 **Associate Degree in Systems Analysis and Development**
+Facens — completed in 2023.
 
 📚 **GFT Java & AWS Developer**
-Bootcamp voltado ao desenvolvimento Java e à utilização de serviços da AWS.
+Bootcamp focused on Java development and AWS services.
 
-Continuo aprofundando meus conhecimentos em:
+I am currently improving my knowledge in:
 
-* Arquitetura de microsserviços;
-* Sistemas orientados a eventos;
-* Integração entre aplicações;
-* Testes automatizados;
-* Observabilidade;
+* Microservices architecture;
+* Event-driven systems;
+* Application integration;
+* Automated testing;
+* Observability;
 * Cloud computing;
-* Boas práticas de arquitetura e desenvolvimento back-end.
+* Backend architecture and development best practices.
 
 ---
 
-## Idiomas
+## Languages
 
-* **Português:** nativo;
-* **Inglês:** intermediário, com boa leitura técnica e compreensão auditiva;
-* **Espanhol:** básico.
+* **Portuguese:** Native;
+* **English:** Intermediate, with strong technical reading and listening comprehension;
+* **Spanish:** Basic.
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sergiotavuencas&show_icons=true&hide=issues&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiotavuencas&layout=compact&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sergiotavuencas&show_icons=true&hide=issues" alt="Sérgio's GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiotavuencas&layout=compact&langs_count=8" alt="Most used languages">
 </div>
 
 ---
 
-## Além do código
+## Beyond Code
 
-Sou fã de **Berserk**, jogos **Soulslike**, cinema e ficção científica. Entre minhas obras favoritas estão **Star Wars**, **Alien — O Oitavo Passageiro** e a série **Dark Souls**.
+I am a fan of **Berserk**, **Soulslike games**, movies, and science fiction. Some of my favorite works include **Star Wars**, **Alien**, and the **Dark Souls** series.
 
-> “Be safe, friend. Don’t you dare go hollow.”
+> “Be safe, friend. Don't you dare go hollow.”
 > — Laurentius, Dark Souls
 
 ---
 
+## Contact
+
+Feel free to reach out if you would like to discuss software development, backend projects, system integrations, or technology.
+
 <p align="center">
-  Aberto a conversas sobre desenvolvimento de software, projetos back-end, integrações e tecnologia.
+  <a href="https://github.com/sergiotavuencas">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/sergiotavuencas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sergio_tavuencas@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
 </p>
